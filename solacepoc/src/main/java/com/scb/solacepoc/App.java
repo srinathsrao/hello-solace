@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Cloned repo");
+        System.out.println("Crazy versionining issues");
     }
 }
